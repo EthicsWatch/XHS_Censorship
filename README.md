@@ -24,6 +24,11 @@ The comment became visible only to its author, leaving other users unaware of th
 
 评论只有发布者自己能看到，其他用户完全无法得知这一信息。
 
+
+![image](https://github.com/user-attachments/assets/efc7cf28-5255-4678-9079-b0a13a364feb)
+
+
+
 This action seemed aimed at protecting China’s reputation and completing a "face-saving project."
 
 此举似乎是为了保护中国的声誉并完成一个“面子工程”。
