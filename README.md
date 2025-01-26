@@ -17,6 +17,11 @@ However, a foreign national commented that similar work had already been complet
 
 然而，一位国外老师评论说，类似的工作在国外早已有人完成。
 
+
+![image](https://github.com/user-attachments/assets/42836b5f-be3a-4518-b982-95f61fa28fb0)
+
+
+
 The foreign national's comment provided valuable context but was censored by XHS.
 这位老师的评论提供了重要的背景信息，但却被XHS审查了。
 
